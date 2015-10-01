@@ -1,0 +1,2 @@
+require_relative 'oauth2_proxy_authentication/signature'
+require_relative 'oauth2_proxy_authentication/version'

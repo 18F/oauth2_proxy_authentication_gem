@@ -1,0 +1,26 @@
+---
+name: oauth2_proxy_authentication_gem
+full_name: oauth2_proxy_authentication Gem
+type: app
+owner_type: project
+status: active
+stage: discovery
+testable: true
+description: >
+  Authenticates requests from bitly/oauth2_proxy based on a shared-secret HMAC
+  signature of the request.
+stack:
+- Ruby
+licenses:
+  oauth2_proxy_authentication_gem:
+    name: CC0
+    url: https://github.com/18F/oauth2_proxy_authentication_gem/blob/master/LICENSE.md
+tasks: https://github.com/18F/oauth2_proxy_authentication_gem/issues
+contact:
+- mailto:michael.bland@gsa.gov
+team:
+- github: mbland
+  role: lead
+links:
+- url: https://github.com/bitly/oauth2_proxy
+  text: bitly/oauth2_proxy
